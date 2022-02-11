@@ -1,6 +1,6 @@
 # Uber-Analysis
-In this project we did Exploratory Data Analysis on Uber Drives-2016 dataset.<br>
-Further we drew some conclusions after observing the patterns and trends in the dataset.<br>
+In this project I did Exploratory Data Analysis on Uber Drives-2016 dataset.<br>
+Further I drew some conclusions after observing the patterns and trends in the dataset.<br>
 The conclusions are :
 <li>The purpose for which the cabs were mostly used were business.
 
